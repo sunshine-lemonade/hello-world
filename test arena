@@ -1,0 +1,9 @@
+##10-Step or Less Project Breakdown
+Choose the data to ingest into the table from the BPCs
+Create a single table of that data through the SQLite module in Python
+Writer queries to manipulate and parse out information about the data in the table
+Output a several files with that manipulated and parsed out information
+Write documentation about how the program and queries should operate
+Produce a narrative about the process, challenges and what I learned from the process
+
+`test`
