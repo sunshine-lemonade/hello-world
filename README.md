@@ -2,4 +2,4 @@
 my first toe into the github pool
 I love the color mango. 
 
-![programming](/SQLite Screenies/programming-happy-fast-gif.gif)
+![table](/SQLite Screenies/table_creation.png)
