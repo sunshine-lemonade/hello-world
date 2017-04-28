@@ -2,4 +2,4 @@
 my first toe into the github pool
 I love the color mango. 
 
-![table](/SQLite_Screenies/table_creation.png)
+![table](hello_world/SQLite_Screenies/table_creation.png)
